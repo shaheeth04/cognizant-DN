@@ -1,4 +1,4 @@
-package week1.junittestexercise.src.test.java.junittestexercise;
+package junittestexercise;
 
 import org.junit.After;
 import org.junit.Before;
@@ -23,14 +23,11 @@ public class AaaPatternTest {
 
     @Test
     public void testAdditionWithArrangeActAssert() {
-        // Arrange
         int firstValue = 5;
         int secondValue = 3;
 
-        
         int result = firstValue + secondValue;
 
-        
         assertEquals(8, result);
         assertTrue(number > 0);
     }
