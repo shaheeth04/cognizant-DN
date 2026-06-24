@@ -1,4 +1,4 @@
-package junittestexercise;
+package week1.junittestexercise.src.test.java.junittestexercise;
 
 import org.junit.After;
 import org.junit.Before;
@@ -27,10 +27,10 @@ public class AaaPatternTest {
         int firstValue = 5;
         int secondValue = 3;
 
-        // Act
+        
         int result = firstValue + secondValue;
 
-        // Assert
+        
         assertEquals(8, result);
         assertTrue(number > 0);
     }
