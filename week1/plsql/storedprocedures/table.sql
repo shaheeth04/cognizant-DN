@@ -1,4 +1,4 @@
-
+]
 CREATE TABLE SavingsAccounts (
     AccountID   NUMBER PRIMARY KEY,
     CustomerID  NUMBER,
