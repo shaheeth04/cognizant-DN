@@ -3,5 +3,6 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/week2/Spring Core_maven/orm-learn" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/week3/spring-rest-handson/spring-learn" vcs="Git" />
   </component>
 </project>
