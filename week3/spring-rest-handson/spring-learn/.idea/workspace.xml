@@ -4,7 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8f276ef7-b95c-43bd-b066-178a7db028f8" name="Changes" comment="" />
+    <list default="true" id="8f276ef7-b95c-43bd-b066-178a7db028f8" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../week2/Spring Core_maven/orm-learn2/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week2/Spring Core_maven/orm-learn2/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-rest-handson-1/spring-learn/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-rest-handson-1/spring-learn/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-rest-handson-1/spring-learn/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-rest-handson-1/spring-learn/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-rest-handson-1/spring-learn/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-rest-handson-1/spring-learn/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-rest-handson-1/spring-learn/src/main/java/com/cognizant/spring_learn/SpringLearnApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-rest-handson-1/spring-learn/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-rest-handson-1/spring-learn/src/test/java/com/cognizant/spring_learn/SpringLearnApplicationTests.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
