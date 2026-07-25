@@ -1,0 +1,28 @@
+.blog-container {
+  padding: 20px;
+  max-width: 800px;
+  margin: 0 auto;
+  font-family: Arial, sans-serif;
+}
+
+.blog-title {
+  text-align: center;
+  color: #555353;
+}
+
+.post-card {
+  margin-bottom: 25px;
+  padding-bottom: 15px;
+  border-bottom: 1px solid #edebeb;
+}
+
+.post-heading {
+  color: #436281;
+  font-size: 1.5rem;
+  margin-bottom: 8px;
+}
+
+.post-body {
+  color: #504747;
+  line-height: 1.6;
+}
