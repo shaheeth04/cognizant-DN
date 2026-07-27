@@ -1,8 +1,0 @@
-# Build and compiled files
-*.class
-*.jar
-target/
-out/
-.idea/
-.tools/
-~$*
